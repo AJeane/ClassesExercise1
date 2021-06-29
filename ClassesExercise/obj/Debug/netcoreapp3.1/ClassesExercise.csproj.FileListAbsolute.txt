@@ -1,0 +1,13 @@
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.csproj.AssemblyReference.cache
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.AssemblyInfoInputs.cache
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.AssemblyInfo.cs
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.csproj.CoreCompileInputs.cache
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.exe
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.deps.json
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.runtimeconfig.json
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.runtimeconfig.dev.json
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.dll
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\bin\Debug\netcoreapp3.1\ClassesExercise.pdb
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.dll
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.pdb
+C:\Users\Tico-Kun\source\repos\ClassesExercise\ClassesExercise\obj\Debug\netcoreapp3.1\ClassesExercise.genruntimeconfig.cache
